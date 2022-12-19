@@ -1,0 +1,15 @@
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\bin\Debug\net6.0\FINALL.exe
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\bin\Debug\net6.0\FINALL.deps.json
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\bin\Debug\net6.0\FINALL.runtimeconfig.json
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\bin\Debug\net6.0\FINALL.dll
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\bin\Debug\net6.0\FINALL.pdb
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.csproj.AssemblyReference.cache
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.AssemblyInfoInputs.cache
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.AssemblyInfo.cs
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.csproj.CoreCompileInputs.cache
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.dll
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\refint\FINALL.dll
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.pdb
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\FINALL.genruntimeconfig.cache
+C:\Users\24mercado4493\source\repos\FINALL\FINALL\obj\Debug\net6.0\ref\FINALL.dll
